@@ -6,10 +6,16 @@
 ### Repositório de projetos concluídos ou em desenvolvimento do Impact-Lab  
   #### 💻 Projetos:
   <div>
+  
+  
   <a href="https://github.com/Dino-Comp/Arvores">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Arvores&theme=ayu-mirage"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Arvores&theme=react"/>
+    
+    
   <a href="https://github.com/Dino-Comp/Algoritmos-de-Ordenacao">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Algoritmos-de-Ordenacao&theme=ayu-mirage"/> 
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Algoritmos-de-Ordenacao&theme=react"/> 
+    
+    
 </div>
 
 #
