@@ -9,11 +9,11 @@
   
   
   <a href="https://github.com/Dino-Comp/Arvores">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Arvores&theme=react"/>
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Arvores&theme=github_dark"/>
     
     
   <a href="https://github.com/Dino-Comp/Algoritmos-de-Ordenacao">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Algoritmos-de-Ordenacao&theme=react"/> 
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Dino-Comp&repo=Algoritmos-de-Ordenacao&theme=github_dark"/> 
     
     
 </div>
