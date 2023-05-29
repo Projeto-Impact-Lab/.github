@@ -4,7 +4,7 @@
 #
 
 ### Repositório de projetos concluídos ou em desenvolvimento do Impact-Lab  
-  #### 💻 Projetos:
+<!--   #### 💻 Projetos:
   <div>
   
 
@@ -13,7 +13,7 @@
     
     
   <a href="https://github.com/Projeto-Impact-Lab/Halide-config-tutorial">
-    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Impact-Lab&repo=Halide-config-tutorial&theme=github_dark"/>  
+    <img height="100em" src="https://github-readme-stats.vercel.app/api/pin/?username=Projeto-Impact-Lab&repo=Halide-config-tutorial&theme=github_dark"/>   -->
     
     
 <!--   <a href="https://github.com/Dino-Comp/Algoritmos-de-Ordenacao">
